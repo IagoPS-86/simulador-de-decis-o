@@ -1,1 +1,1 @@
-# simulador-de-decis-o
+# simulador-decisao
